@@ -10,14 +10,14 @@
 
 ### Make file properties you will need to change
 
-- `PROJECT_NAME` defualt is _game_
-- `COMPILER_PATH` defualt is _/usr/bin/clang_
-- `BUILD_MODE` defualt _RELEASE_
-- `CC` (C compiler) defualt clang
-- `OBJS` defualt _src/main.c_ (this is for your main file)
+- `PROJECT_NAME` defualt is `game`
+- `COMPILER_PATH` defualt is `/usr/bin/clang`
+- `BUILD_MODE` defualt `RELEASE`
+- `CC` (C compiler) defualt `clang`
+- `OBJS` defualt `src/main.c` (this is for your main file)
 
 ---
 
 ### c_cpp_properties
 
-- `includePath` defualt _~/Documents/raylib/src/\*\*_ this is the location of where raylib is installed
+- `includePath` defualt `~/Documents/raylib/src/\*\*` this is the location of where raylib is installed
